@@ -1,0 +1,2 @@
+Welcome to python coding.
+Appending into file
